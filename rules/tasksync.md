@@ -1,7 +1,7 @@
 ### MCP TaskSync Server Usage Rules
 
 - Last Updated: 2025-01-26
-- description: 'ReactJS development standards and best practices'
+- description: '`get_feedback` Tool Instructions'
 - applyTo: '**'
 
 ### MCP TaskSync `get_feedback` Tool Instructions
