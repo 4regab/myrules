@@ -1,2 +1,2 @@
-# rules
-test the agent-rules
+
+sample rules folder
